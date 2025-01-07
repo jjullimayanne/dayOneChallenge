@@ -50,7 +50,7 @@ Após completar o desafio, envie sua solução abrindo um Pull Request (PR) nest
    - Dê ao PR o título com **seu nome** para participar do sorteio.
 
 ## 🎉 Regras do Sorteio
-- 📅 **O sorteio acontece no domingo, 12 de janeiro de 2025, às 16h,  
+- 📅 O sorteio acontece no domingo, 12 de janeiro de 2025, às 16h,  
 - Todos os participantes que abrirem um PR com uma solução válida estarão concorrendo.
 - O vencedor receberá um cupom do iFood no valor de R$30!
 
