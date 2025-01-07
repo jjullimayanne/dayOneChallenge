@@ -50,11 +50,9 @@ Após completar o desafio, envie sua solução abrindo um Pull Request (PR) nest
    - Dê ao PR o título com **seu nome** para participar do sorteio.
 
 ## 🎉 Regras do Sorteio
-- 📅 **O sorteio acontece no domingo, 12 de janeiro de 2025, às 16h, no meu Instagram!**  
+- 📅 **O sorteio acontece no domingo, 12 de janeiro de 2025, às 16h,  
 - Todos os participantes que abrirem um PR com uma solução válida estarão concorrendo.
-- O vencedor receberá um cupom do iFood no valor de R$50!
-- 🔗 Não esqueça de me seguir para acompanhar: [@SeuInstagram](https://instagram.com/seuInstagram)
-
+- O vencedor receberá um cupom do iFood no valor de R$30!
 
 ## 🎮 Exemplo de Solução
 Aqui está um exemplo de como sua função pode ser implementada:
